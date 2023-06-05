@@ -104,7 +104,9 @@
   .about-welcome {
     font-size: 30px;
   }
-
+.aboutUsImage{
+  display: none;
+}
   .about-reasonTitle {
     font-size: 40px;
   }
